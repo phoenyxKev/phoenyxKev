@@ -1,4 +1,4 @@
-![markdown](https://user-images.githubusercontent.com/61883395/204156648-45707ca7-baa1-4c13-a163-1bbaf0f5d65e.png)
+<img height="120px" width="120px" src="https://user-images.githubusercontent.com/61883395/204159513-8e116353-b982-461f-968a-38602ce39c51.png" alt="me" />
 
 <!--
 **phoenyxKev/phoenyxKev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
