@@ -1,4 +1,4 @@
-# Phoenyx Kev
+![markdown](https://user-images.githubusercontent.com/61883395/204156648-45707ca7-baa1-4c13-a163-1bbaf0f5d65e.png)
 
 <!--
 **phoenyxKev/phoenyxKev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,29 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="24px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:2px; vertical-align:middle"/>[@phoenyxkev](https://twitter.com/phoenyxKev)
-
 ## About
 
-I'm a JS web developer and work mostly with Vue for frontend & Node on the server side. I graduated as Full Stack Dev in 2021 & started working as freelancer since. Check out my website for more : [https://phoenyxkev.com](https://phoenyxkev.com)
+My name is Kevin, I'm a JS dev freelancer. I'm french & currently living in Valencia, Spain. I graduated as a Full Stack Web Developer in 2021 w/ [OpenClassrooms](https://openclassrooms.com/en).
+My go to JS framework are Vue.js-based ones (vue/nuxt/gridsome), as I really apreciate its syntax (even if NextJS is great too, I prefer Nuxt3)
+I'm currently learning Kotlin-Android Studio for building native Android Apps.
 
-## Frontend
+## Stack
 
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" title="JavaScript" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" align="left" title="CSS" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" align="left" title="Vue" />
-<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" alt="11ty" align="Eleventy" />
-<br>
-
-## Backend
-
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" alt="11ty" align="left" title="Eleventy" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" align="left" title="Node" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" align="left" title="ExpressJS" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt3" align="left" title="Nuxt3" />
-<br>
-
-## Database
-
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" align="left" title="MongoDB" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" align="left" title="MySQL" />
-<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="left" title="PostgreSQL" />  
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="left" title="PostgreSQL" />
+<br>
+
+## Contact me
+
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:8px;" />[@phoenyxkev](https://twitter.com/phoenyxKev)
