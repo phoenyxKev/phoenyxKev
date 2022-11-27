@@ -27,3 +27,8 @@ I'm a JS web developer and work mostly with Vue for frontend and with Node on th
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" align="left" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" align="left" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" alt="11ty" align="left" />
+
+## Backend
+
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" align="left" title="node" />
+          
