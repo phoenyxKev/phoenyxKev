@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[@phoenyxkev](https://twitter.com/phoenyxKev)
+<img height="24px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />[@phoenyxkev](https://twitter.com/phoenyxKev)
 
 ## About
 
@@ -23,6 +23,8 @@ I'm a JS web developer and work mostly with Vue for frontend and with Node on th
 
 ## Stack
 
-### Frontend :
+### Frontend
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" />
           
