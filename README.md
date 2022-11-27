@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About
 
-I'm a JS web developer and work mostly with Vue for frontend and with Node on the server side. I graduated as Full Stack Dev in 2021 & started working as freelancer since. Check out my website for more : [https://phoenyxkev.com](https://phoenyxkev.com)
+I'm a JS web developer and work mostly with Vue for frontend & Node on the server side. I graduated as Full Stack Dev in 2021 & started working as freelancer since. Check out my website for more : [https://phoenyxkev.com](https://phoenyxkev.com)
 
 ## Frontend
 
@@ -27,12 +27,14 @@ I'm a JS web developer and work mostly with Vue for frontend and with Node on th
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" align="left" title="CSS" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" align="left" title="Vue" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" alt="11ty" align="Eleventy" />
+<br>
 
 ## Backend
 
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" align="left" title="Node" />
-<img height="2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" title="ExpressJS" />          
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" align="left" title="ExpressJS" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt3" align="left" title="Nuxt3" />
+<br>
 
 ## Database
 
