@@ -31,7 +31,7 @@ I'm a JS web developer and work mostly with Vue for frontend and with Node on th
 ## Backend
 
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" align="left" title="Node" />
-<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" alt="ExpressJS" align="left" title="ExpressJS" />
+<img height="2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" title="ExpressJS" />          
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt3" align="left" title="Nuxt3" />
 
 ## Database
