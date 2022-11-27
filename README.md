@@ -37,4 +37,6 @@ I'm currently learning Kotlin-Android Studio for building native Android Apps.
 
 ## Contact me
 
-<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:8px;" />[@phoenyxkev](https://twitter.com/phoenyxKev)
+<img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> [@phoenyxkev](https://twitter.com/phoenyxKev)
+<br>
+![PhoenyxKev](https://user-images.githubusercontent.com/61883395/204159311-b0058525-9db6-48eb-a0a4-c0c18748215b.svg) [phoenyxkev.com](https://phoenyxkev.com)
