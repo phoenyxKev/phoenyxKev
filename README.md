@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 I'm a JS web developer and work mostly with Vue for frontend and with Node on the server side. I graduated as Full Stack Dev in 2021 & started working as freelancer since. Check out my website for more : [https://phoenyxkev.com](https://phoenyxkev.com)
 
-## Stack
+## Frontend
 
-### Frontend
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" align="left" />
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" align="left" />
